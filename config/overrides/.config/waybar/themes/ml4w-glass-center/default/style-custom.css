@@ -1,0 +1,10 @@
+@import '../../../../../.config/waybar/colors.css';
+@import '../../ml4w-glass/style.css';
+
+.modules-left,
+.modules-center,
+.modules-right {
+    margin: 0;
+}
+
+label.module { font-size: 12px; }

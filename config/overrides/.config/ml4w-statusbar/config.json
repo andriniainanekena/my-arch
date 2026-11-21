@@ -1,0 +1,9 @@
+{
+    "bar": {
+        "height": 40,
+        "reservedHeight": 60,
+        "enabled": false,
+        "alwaysExpanded": true,
+        "autohide": false
+    }
+}
